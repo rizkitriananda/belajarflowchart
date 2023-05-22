@@ -5,6 +5,7 @@
 
 body {
   font-size: 18px;
+  background-color: #f8f8f8;
 }
 
 header {
@@ -90,9 +91,14 @@ header h1 {
 footer {
   width: 900px;
   text-align: center;
-  background-color: #866c6c;
+  background-color: #f8f8f8;
   margin: 0 auto;
   padding: 100px 50px 20px 50px;
+  font-family: "Poppins", sans-serif;
+}
+
+footer h3 {
+  color: #549bb8;
 }
 
 .contact {
